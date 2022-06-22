@@ -1,0 +1,119 @@
+O:12:"CI_DB_result":8:{s:7:"conn_id";N;s:9:"result_id";N;s:12:"result_array";a:5:{i:0;a:31:{s:7:"post_id";s:2:"92";s:9:"post_code";s:6:"PD0082";s:8:"post_ref";s:10:"PDDJTPKJ3G";s:10:"meta_title";s:4:"Amla";s:8:"meta_key";s:1:"7";s:9:"post_date";s:19:"2021-12-30 11:10:57";s:11:"update_date";s:19:"2021-12-30 11:10:57";s:9:"date_time";s:19:"2021-12-30 11:10:57";s:13:"franchisee_id";s:1:"1";s:14:"post_qty_limit";s:2:"10";s:10:"post_width";s:1:"0";s:11:"post_height";s:1:"0";s:10:"post_depth";s:1:"0";s:11:"post_weight";s:4:"1000";s:10:"is_product";s:1:"0";s:9:"stock_sts";s:1:"1";s:8:"post_sts";s:1:"1";s:10:"delete_sts";s:1:"1";s:13:"display_order";s:1:"0";s:7:"lang_id";s:1:"1";s:9:"post_size";s:0:"";s:10:"post_title";s:4:"Amla";s:9:"post_tags";s:1:"7";s:9:"post_desc";s:405:"<p>
+	<span style="color: rgb(77, 81, 86); font-family: arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);">Phyllanthus emblica, also known as emblic, emblic myrobalan, myrobalan, Indian gooseberry, Malacca tree, or amla, from the Sanskrit amalaki, is a deciduous tree of the family Phyllanthaceae.</span></p>
+<p>
+	#amla</p>
+<p>
+	#ola</p>
+<p>
+	#gooseberry</p>
+<p>
+	#aola</p>";s:8:"post_mrp";s:2:"40";s:13:"post_discount";s:1:"0";s:10:"short_desc";s:190:"Phyllanthus emblica, also known as emblic, emblic myrobalan, myrobalan, Indian gooseberry, Malacca tree, or amla, from the Sanskrit amalaki, is a deciduous tree of the family Phyllanthaceae.";s:10:"post_price";s:2:"40";s:7:"post_pv";s:1:"0";s:9:"post_slug";s:4:"amla";s:13:"category_name";s:6:"Fruits";}i:1;a:31:{s:7:"post_id";s:2:"81";s:9:"post_code";s:6:"PD0071";s:8:"post_ref";s:10:"PDGNUUXVBX";s:10:"meta_title";s:5:"Apple";s:8:"meta_key";s:1:"7";s:9:"post_date";s:19:"2021-12-29 13:30:23";s:11:"update_date";s:19:"2021-12-29 13:30:23";s:9:"date_time";s:19:"2021-12-29 13:30:23";s:13:"franchisee_id";s:1:"1";s:14:"post_qty_limit";s:2:"10";s:10:"post_width";s:1:"0";s:11:"post_height";s:1:"0";s:10:"post_depth";s:1:"0";s:11:"post_weight";s:4:"1000";s:10:"is_product";s:1:"0";s:9:"stock_sts";s:1:"1";s:8:"post_sts";s:1:"1";s:10:"delete_sts";s:1:"1";s:13:"display_order";s:1:"0";s:7:"lang_id";s:1:"1";s:9:"post_size";s:0:"";s:10:"post_title";s:5:"Apple";s:9:"post_tags";s:1:"7";s:9:"post_desc";s:740:"<p>
+	<span style="color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);">In India, Apple is primarily cultivated in&nbsp;</span><b style="color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);">Jammu &amp; Kashmir; Himachal Pradesh</b><span style="color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);">; hills of Uttar Pradesh and Uttaranchal. It is also cultivated to a small extent in Arunachal Pradesh; Nagaland; Punjab and Sikkim.</span></p>
+<p>
+	#apple</p>
+<p>
+	#fruits</p>
+<p>
+	#fruit</p>
+<p>
+	#seu</p>
+<p>
+	#seoo</p>
+<p>
+	#sewu</p>
+<p>
+	&nbsp;</p>";s:8:"post_mrp";s:3:"180";s:13:"post_discount";s:1:"0";s:10:"short_desc";s:208:"In India, Apple is primarily cultivated in Jammu & Kashmir; Himachal Pradesh; hills of Uttar Pradesh and Uttaranchal. It is also cultivated to a small extent in Arunachal Pradesh; Nagaland; Punjab and Sikkim.";s:10:"post_price";s:3:"180";s:7:"post_pv";s:1:"0";s:9:"post_slug";s:5:"apple";s:13:"category_name";s:6:"Fruits";}i:2;a:31:{s:7:"post_id";s:2:"89";s:9:"post_code";s:6:"PD0079";s:8:"post_ref";s:10:"PDBZLNXNOJ";s:10:"meta_title";s:10:"Artocarpus";s:8:"meta_key";s:1:"7";s:9:"post_date";s:19:"2021-12-30 10:34:01";s:11:"update_date";s:19:"2021-12-30 10:34:01";s:9:"date_time";s:19:"2021-12-30 10:34:01";s:13:"franchisee_id";s:1:"1";s:14:"post_qty_limit";s:2:"10";s:10:"post_width";s:1:"0";s:11:"post_height";s:1:"0";s:10:"post_depth";s:1:"0";s:11:"post_weight";s:4:"1000";s:10:"is_product";s:1:"0";s:9:"stock_sts";s:1:"1";s:8:"post_sts";s:1:"1";s:10:"delete_sts";s:1:"1";s:13:"display_order";s:1:"0";s:7:"lang_id";s:1:"1";s:9:"post_size";s:0:"";s:10:"post_title";s:10:"Artocarpus";s:9:"post_tags";s:1:"7";s:9:"post_desc";s:406:"<p>
+	<span style="color: rgb(77, 81, 86); font-family: arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);">Artocarpus is a genus of approximately 60 trees and shrubs of Southeast Asian and Pacific origin, belonging to the mulberry family, Moraceae.</span></p>
+<p>
+	#Artocarpus</p>
+<p>
+	#panasa</p>
+<p>
+	#ponoso</p>
+<p>
+	#breadfruit</p>
+<p>
+	#kathal</p>
+<p>
+	#kathaal</p>";s:8:"post_mrp";s:2:"50";s:13:"post_discount";s:1:"0";s:10:"short_desc";s:141:"Artocarpus is a genus of approximately 60 trees and shrubs of Southeast Asian and Pacific origin, belonging to the mulberry family, Moraceae.";s:10:"post_price";s:2:"50";s:7:"post_pv";s:1:"0";s:9:"post_slug";s:10:"artocarpus";s:13:"category_name";s:6:"Fruits";}i:3;a:31:{s:7:"post_id";s:2:"82";s:9:"post_code";s:6:"PD0072";s:8:"post_ref";s:10:"PDVROF1ZOY";s:10:"meta_title";s:6:"Banana";s:8:"meta_key";s:1:"7";s:9:"post_date";s:19:"2021-12-29 13:37:02";s:11:"update_date";s:19:"2021-12-29 13:37:02";s:9:"date_time";s:19:"2021-12-29 13:37:02";s:13:"franchisee_id";s:1:"1";s:14:"post_qty_limit";s:2:"10";s:10:"post_width";s:1:"0";s:11:"post_height";s:1:"0";s:10:"post_depth";s:1:"0";s:11:"post_weight";s:2:"12";s:10:"is_product";s:1:"0";s:9:"stock_sts";s:1:"1";s:8:"post_sts";s:1:"1";s:10:"delete_sts";s:1:"1";s:13:"display_order";s:1:"0";s:7:"lang_id";s:1:"1";s:9:"post_size";s:0:"";s:10:"post_title";s:6:"Banana";s:9:"post_tags";s:1:"7";s:9:"post_desc";s:511:"<p>
+	<span style="color: rgb(77, 81, 86); font-family: arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);">A banana is an elongated, edible fruit &ndash; botanically a berry &ndash; produced by several kinds of large herbaceous flowering plants in the genus Musa. In some countries, bananas used for cooking may be called &quot;plantains&quot;, distinguishing them from dessert bananas.</span></p>
+<p>
+	#banana</p>
+<p>
+	#kela</p>
+<p>
+	#fruit</p>
+<p>
+	#fruits</p>
+<p>
+	#cela</p>";s:8:"post_mrp";s:2:"40";s:13:"post_discount";s:1:"0";s:10:"short_desc";s:261:"A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa. In some countries, bananas used for cooking may be called "plantains", distinguishing them from dessert bananas.";s:10:"post_price";s:2:"40";s:7:"post_pv";s:1:"0";s:9:"post_slug";s:6:"banana";s:13:"category_name";s:6:"Fruits";}i:4;a:31:{s:7:"post_id";s:2:"86";s:9:"post_code";s:6:"PD0076";s:8:"post_ref";s:10:"PD2W3XN3M5";s:10:"meta_title";s:7:"Coconut";s:8:"meta_key";s:1:"7";s:9:"post_date";s:19:"2021-12-30 06:27:02";s:11:"update_date";s:19:"2021-12-30 06:27:02";s:9:"date_time";s:19:"2021-12-30 06:27:02";s:13:"franchisee_id";s:1:"1";s:14:"post_qty_limit";s:2:"10";s:10:"post_width";s:1:"0";s:11:"post_height";s:1:"0";s:10:"post_depth";s:1:"0";s:11:"post_weight";s:3:"250";s:10:"is_product";s:1:"0";s:9:"stock_sts";s:1:"1";s:8:"post_sts";s:1:"1";s:10:"delete_sts";s:1:"1";s:13:"display_order";s:1:"0";s:7:"lang_id";s:1:"1";s:9:"post_size";s:0:"";s:10:"post_title";s:7:"Coconut";s:9:"post_tags";s:1:"7";s:9:"post_desc";s:786:"<p>
+	<span style="color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);">Coconut is&nbsp;</span><b style="color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);">the fruit of the coconut palm (Cocos nucifera)</b><span style="color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);">. It&#39;s used for its water, milk, oil, and tasty meat. Coconuts have been grown in tropical regions for more than 4,500 years but recently increased in popularity for their flavor, culinary uses, and potential health benefits.</span></p>
+<p>
+	#coconut</p>
+<p>
+	#narayal</p>
+<p>
+	#naryal</p>
+<p>
+	#nadia</p>
+<p>
+	#nodia</p>";s:8:"post_mrp";s:2:"35";s:13:"post_discount";s:1:"0";s:10:"short_desc";s:281:"Coconut is the fruit of the coconut palm (Cocos nucifera). It"s used for its water, milk, oil, and tasty meat. Coconuts have been grown in tropical regions for more than 4,500 years but recently increased in popularity for their flavor, culinary uses, and potential health benefits";s:10:"post_price";s:2:"35";s:7:"post_pv";s:1:"0";s:9:"post_slug";s:7:"coconut";s:13:"category_name";s:6:"Fruits";}}s:13:"result_object";a:5:{i:0;O:8:"stdClass":31:{s:7:"post_id";s:2:"92";s:9:"post_code";s:6:"PD0082";s:8:"post_ref";s:10:"PDDJTPKJ3G";s:10:"meta_title";s:4:"Amla";s:8:"meta_key";s:1:"7";s:9:"post_date";s:19:"2021-12-30 11:10:57";s:11:"update_date";s:19:"2021-12-30 11:10:57";s:9:"date_time";s:19:"2021-12-30 11:10:57";s:13:"franchisee_id";s:1:"1";s:14:"post_qty_limit";s:2:"10";s:10:"post_width";s:1:"0";s:11:"post_height";s:1:"0";s:10:"post_depth";s:1:"0";s:11:"post_weight";s:4:"1000";s:10:"is_product";s:1:"0";s:9:"stock_sts";s:1:"1";s:8:"post_sts";s:1:"1";s:10:"delete_sts";s:1:"1";s:13:"display_order";s:1:"0";s:7:"lang_id";s:1:"1";s:9:"post_size";s:0:"";s:10:"post_title";s:4:"Amla";s:9:"post_tags";s:1:"7";s:9:"post_desc";s:405:"<p>
+	<span style="color: rgb(77, 81, 86); font-family: arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);">Phyllanthus emblica, also known as emblic, emblic myrobalan, myrobalan, Indian gooseberry, Malacca tree, or amla, from the Sanskrit amalaki, is a deciduous tree of the family Phyllanthaceae.</span></p>
+<p>
+	#amla</p>
+<p>
+	#ola</p>
+<p>
+	#gooseberry</p>
+<p>
+	#aola</p>";s:8:"post_mrp";s:2:"40";s:13:"post_discount";s:1:"0";s:10:"short_desc";s:190:"Phyllanthus emblica, also known as emblic, emblic myrobalan, myrobalan, Indian gooseberry, Malacca tree, or amla, from the Sanskrit amalaki, is a deciduous tree of the family Phyllanthaceae.";s:10:"post_price";s:2:"40";s:7:"post_pv";s:1:"0";s:9:"post_slug";s:4:"amla";s:13:"category_name";s:6:"Fruits";}i:1;O:8:"stdClass":31:{s:7:"post_id";s:2:"81";s:9:"post_code";s:6:"PD0071";s:8:"post_ref";s:10:"PDGNUUXVBX";s:10:"meta_title";s:5:"Apple";s:8:"meta_key";s:1:"7";s:9:"post_date";s:19:"2021-12-29 13:30:23";s:11:"update_date";s:19:"2021-12-29 13:30:23";s:9:"date_time";s:19:"2021-12-29 13:30:23";s:13:"franchisee_id";s:1:"1";s:14:"post_qty_limit";s:2:"10";s:10:"post_width";s:1:"0";s:11:"post_height";s:1:"0";s:10:"post_depth";s:1:"0";s:11:"post_weight";s:4:"1000";s:10:"is_product";s:1:"0";s:9:"stock_sts";s:1:"1";s:8:"post_sts";s:1:"1";s:10:"delete_sts";s:1:"1";s:13:"display_order";s:1:"0";s:7:"lang_id";s:1:"1";s:9:"post_size";s:0:"";s:10:"post_title";s:5:"Apple";s:9:"post_tags";s:1:"7";s:9:"post_desc";s:740:"<p>
+	<span style="color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);">In India, Apple is primarily cultivated in&nbsp;</span><b style="color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);">Jammu &amp; Kashmir; Himachal Pradesh</b><span style="color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);">; hills of Uttar Pradesh and Uttaranchal. It is also cultivated to a small extent in Arunachal Pradesh; Nagaland; Punjab and Sikkim.</span></p>
+<p>
+	#apple</p>
+<p>
+	#fruits</p>
+<p>
+	#fruit</p>
+<p>
+	#seu</p>
+<p>
+	#seoo</p>
+<p>
+	#sewu</p>
+<p>
+	&nbsp;</p>";s:8:"post_mrp";s:3:"180";s:13:"post_discount";s:1:"0";s:10:"short_desc";s:208:"In India, Apple is primarily cultivated in Jammu & Kashmir; Himachal Pradesh; hills of Uttar Pradesh and Uttaranchal. It is also cultivated to a small extent in Arunachal Pradesh; Nagaland; Punjab and Sikkim.";s:10:"post_price";s:3:"180";s:7:"post_pv";s:1:"0";s:9:"post_slug";s:5:"apple";s:13:"category_name";s:6:"Fruits";}i:2;O:8:"stdClass":31:{s:7:"post_id";s:2:"89";s:9:"post_code";s:6:"PD0079";s:8:"post_ref";s:10:"PDBZLNXNOJ";s:10:"meta_title";s:10:"Artocarpus";s:8:"meta_key";s:1:"7";s:9:"post_date";s:19:"2021-12-30 10:34:01";s:11:"update_date";s:19:"2021-12-30 10:34:01";s:9:"date_time";s:19:"2021-12-30 10:34:01";s:13:"franchisee_id";s:1:"1";s:14:"post_qty_limit";s:2:"10";s:10:"post_width";s:1:"0";s:11:"post_height";s:1:"0";s:10:"post_depth";s:1:"0";s:11:"post_weight";s:4:"1000";s:10:"is_product";s:1:"0";s:9:"stock_sts";s:1:"1";s:8:"post_sts";s:1:"1";s:10:"delete_sts";s:1:"1";s:13:"display_order";s:1:"0";s:7:"lang_id";s:1:"1";s:9:"post_size";s:0:"";s:10:"post_title";s:10:"Artocarpus";s:9:"post_tags";s:1:"7";s:9:"post_desc";s:406:"<p>
+	<span style="color: rgb(77, 81, 86); font-family: arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);">Artocarpus is a genus of approximately 60 trees and shrubs of Southeast Asian and Pacific origin, belonging to the mulberry family, Moraceae.</span></p>
+<p>
+	#Artocarpus</p>
+<p>
+	#panasa</p>
+<p>
+	#ponoso</p>
+<p>
+	#breadfruit</p>
+<p>
+	#kathal</p>
+<p>
+	#kathaal</p>";s:8:"post_mrp";s:2:"50";s:13:"post_discount";s:1:"0";s:10:"short_desc";s:141:"Artocarpus is a genus of approximately 60 trees and shrubs of Southeast Asian and Pacific origin, belonging to the mulberry family, Moraceae.";s:10:"post_price";s:2:"50";s:7:"post_pv";s:1:"0";s:9:"post_slug";s:10:"artocarpus";s:13:"category_name";s:6:"Fruits";}i:3;O:8:"stdClass":31:{s:7:"post_id";s:2:"82";s:9:"post_code";s:6:"PD0072";s:8:"post_ref";s:10:"PDVROF1ZOY";s:10:"meta_title";s:6:"Banana";s:8:"meta_key";s:1:"7";s:9:"post_date";s:19:"2021-12-29 13:37:02";s:11:"update_date";s:19:"2021-12-29 13:37:02";s:9:"date_time";s:19:"2021-12-29 13:37:02";s:13:"franchisee_id";s:1:"1";s:14:"post_qty_limit";s:2:"10";s:10:"post_width";s:1:"0";s:11:"post_height";s:1:"0";s:10:"post_depth";s:1:"0";s:11:"post_weight";s:2:"12";s:10:"is_product";s:1:"0";s:9:"stock_sts";s:1:"1";s:8:"post_sts";s:1:"1";s:10:"delete_sts";s:1:"1";s:13:"display_order";s:1:"0";s:7:"lang_id";s:1:"1";s:9:"post_size";s:0:"";s:10:"post_title";s:6:"Banana";s:9:"post_tags";s:1:"7";s:9:"post_desc";s:511:"<p>
+	<span style="color: rgb(77, 81, 86); font-family: arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);">A banana is an elongated, edible fruit &ndash; botanically a berry &ndash; produced by several kinds of large herbaceous flowering plants in the genus Musa. In some countries, bananas used for cooking may be called &quot;plantains&quot;, distinguishing them from dessert bananas.</span></p>
+<p>
+	#banana</p>
+<p>
+	#kela</p>
+<p>
+	#fruit</p>
+<p>
+	#fruits</p>
+<p>
+	#cela</p>";s:8:"post_mrp";s:2:"40";s:13:"post_discount";s:1:"0";s:10:"short_desc";s:261:"A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa. In some countries, bananas used for cooking may be called "plantains", distinguishing them from dessert bananas.";s:10:"post_price";s:2:"40";s:7:"post_pv";s:1:"0";s:9:"post_slug";s:6:"banana";s:13:"category_name";s:6:"Fruits";}i:4;O:8:"stdClass":31:{s:7:"post_id";s:2:"86";s:9:"post_code";s:6:"PD0076";s:8:"post_ref";s:10:"PD2W3XN3M5";s:10:"meta_title";s:7:"Coconut";s:8:"meta_key";s:1:"7";s:9:"post_date";s:19:"2021-12-30 06:27:02";s:11:"update_date";s:19:"2021-12-30 06:27:02";s:9:"date_time";s:19:"2021-12-30 06:27:02";s:13:"franchisee_id";s:1:"1";s:14:"post_qty_limit";s:2:"10";s:10:"post_width";s:1:"0";s:11:"post_height";s:1:"0";s:10:"post_depth";s:1:"0";s:11:"post_weight";s:3:"250";s:10:"is_product";s:1:"0";s:9:"stock_sts";s:1:"1";s:8:"post_sts";s:1:"1";s:10:"delete_sts";s:1:"1";s:13:"display_order";s:1:"0";s:7:"lang_id";s:1:"1";s:9:"post_size";s:0:"";s:10:"post_title";s:7:"Coconut";s:9:"post_tags";s:1:"7";s:9:"post_desc";s:786:"<p>
+	<span style="color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);">Coconut is&nbsp;</span><b style="color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);">the fruit of the coconut palm (Cocos nucifera)</b><span style="color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);">. It&#39;s used for its water, milk, oil, and tasty meat. Coconuts have been grown in tropical regions for more than 4,500 years but recently increased in popularity for their flavor, culinary uses, and potential health benefits.</span></p>
+<p>
+	#coconut</p>
+<p>
+	#narayal</p>
+<p>
+	#naryal</p>
+<p>
+	#nadia</p>
+<p>
+	#nodia</p>";s:8:"post_mrp";s:2:"35";s:13:"post_discount";s:1:"0";s:10:"short_desc";s:281:"Coconut is the fruit of the coconut palm (Cocos nucifera). It"s used for its water, milk, oil, and tasty meat. Coconuts have been grown in tropical regions for more than 4,500 years but recently increased in popularity for their flavor, culinary uses, and potential health benefits";s:10:"post_price";s:2:"35";s:7:"post_pv";s:1:"0";s:9:"post_slug";s:7:"coconut";s:13:"category_name";s:6:"Fruits";}}s:20:"custom_result_object";a:0:{}s:11:"current_row";i:0;s:8:"num_rows";i:5;s:8:"row_data";N;}

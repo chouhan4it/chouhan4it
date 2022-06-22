@@ -1,0 +1,8 @@
+.autocomplete_list * {font: 13px "Myriad Pro", "Lucida Grande", "Lucida Sans Unicode", Arial, Verdana, sans-serif;}
+.autocomplete_list{background: #FEFEFE;display: block;border: 1px solid #7C7C7C;text-align: left; z-index: 200;}
+.autocomplete_list, .autocomplete_list ol, .autocomplete_list li {list-style-type: none; margin: 0;padding: 0;clear: both;}
+.autocomplete_list li {margin: 0; padding: 4px 6px;text-align: left;cursor: pointer;}
+.autocomplete_list .current_item { background: #B4D5FE;color: black;}
+.autocomplete_list li {color: #303030;}
+.autocomplete_list span {color: #111; float: right; padding-left: 2em;}
+.autocomplete_icon {background-image: url(autocomplete.gif);cursor: pointer;cursor: hand;}

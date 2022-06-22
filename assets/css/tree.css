@@ -1,0 +1,80 @@
+.jOrgChart .line {
+	height : 20px;
+	width : 0px;
+}
+.jOrgChart .down {
+	background-color : #868686;
+	margin : 20px auto;
+}
+.jOrgChart .top {
+	border-top : 2px solid #868686;
+}
+.jOrgChart .left {
+	border-right : 1px solid #868686;
+}
+.jOrgChart .right {
+	border-left : 1px solid #868686;
+}
+/* node cell */
+.jOrgChart td {
+	text-align : center;
+	vertical-align : top;
+	padding : 0;
+}
+/* Tree Box */
+.jOrgChart .node {
+	background-color : #FFFFFF;
+	display : inline-block;
+	width : 120px;
+	height : 50px;
+	z-index : 10;
+	margin : 0 2px;
+	border-radius : 8px;
+	-moz-border-radius : 8px;
+	padding : 3px;
+}
+.small_font {
+	font-size: 9px !important;
+}
+.flexcroll {
+	width: auto;
+	height: auto;
+	overflow: scroll;
+}
+.flexcroll {
+	scrollbar-face-color: #367CD2;
+	scrollbar-shadow-color: #FFFFFF;
+	scrollbar-highlight-color: #FFFFFF;
+	scrollbar-3dlight-color: #FFFFFF;
+	scrollbar-darkshadow-color: #FFFFFF;
+	scrollbar-track-color: #FFFFFF;
+	scrollbar-arrow-color: #FFFFFF;
+}
+		
+		/* Let's get this party started */
+		.flexcroll::-webkit-scrollbar {
+ width: 12px;
+}
+		 
+		/* Track */
+		.flexcroll::-webkit-scrollbar-track {
+ -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+ -webkit-border-radius: 10px;
+ border-radius: 10px;
+}
+		 
+		/* Handle */
+		.flexcroll::-webkit-scrollbar-thumb {
+ -webkit-border-radius: 10px;
+ border-radius: 10px;
+ background: rgba(255,0,0,0.8);
+ -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5);
+}
+.admin-profile{ width:70px; height:70px; border-radius:100%; background-color:#CCC}
+.default_pic{ border:5px solid  #FF0000; }
+.basic{ border:5px solid #598C1A; }
+.starter{ border:5px solid #02058B; }
+.launch{ border:5px solid #3E2A53; }
+.power{ border:5px solid #9F9F9F; }
+.premium{ border:5px solid #7DAD98; }
+.superpower{ border:5px solid #FFB101; }

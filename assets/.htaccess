@@ -1,0 +1,8 @@
+<Files ~ "\.(js|css|ico|png|jpeg|jpg|gif|swf|txt)$">
+  order allow,deny
+  allow from all
+</Files>
+<Files ~ "\.(phtml|php|bak|config|dist|fla|inc|ini|log|psd|sh|sql|swp)$">
+  Order Allow,Deny
+  Deny from all
+</Files>

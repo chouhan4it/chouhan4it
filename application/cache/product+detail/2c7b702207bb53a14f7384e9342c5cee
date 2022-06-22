@@ -1,0 +1,19 @@
+O:12:"CI_DB_result":8:{s:7:"conn_id";N;s:9:"result_id";N;s:12:"result_array";a:1:{i:0;a:41:{s:7:"post_id";s:2:"92";s:9:"post_code";s:6:"PD0082";s:8:"post_ref";s:10:"PDDJTPKJ3G";s:10:"meta_title";s:4:"Amla";s:8:"meta_key";s:1:"7";s:9:"post_date";s:19:"2021-12-30 11:10:57";s:11:"update_date";s:19:"2021-12-30 11:10:57";s:9:"date_time";s:19:"2021-12-30 11:10:57";s:13:"franchisee_id";s:1:"1";s:14:"post_qty_limit";s:2:"10";s:10:"post_width";s:1:"0";s:11:"post_height";s:1:"0";s:10:"post_depth";s:1:"0";s:11:"post_weight";s:4:"1000";s:10:"is_product";s:1:"0";s:9:"stock_sts";s:1:"1";s:8:"post_sts";s:1:"1";s:10:"delete_sts";s:1:"1";s:13:"display_order";s:1:"0";s:7:"lang_id";s:1:"1";s:10:"post_title";s:4:"Amla";s:9:"post_tags";s:1:"7";s:9:"post_desc";s:405:"<p>
+	<span style="color: rgb(77, 81, 86); font-family: arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);">Phyllanthus emblica, also known as emblic, emblic myrobalan, myrobalan, Indian gooseberry, Malacca tree, or amla, from the Sanskrit amalaki, is a deciduous tree of the family Phyllanthaceae.</span></p>
+<p>
+	#amla</p>
+<p>
+	#ola</p>
+<p>
+	#gooseberry</p>
+<p>
+	#aola</p>";s:8:"post_mrp";s:2:"40";s:13:"post_discount";s:1:"0";s:16:"post_selling_mrp";s:1:"0";s:10:"post_price";s:2:"40";s:13:"post_shipping";s:1:"0";s:10:"short_desc";s:190:"Phyllanthus emblica, also known as emblic, emblic myrobalan, myrobalan, Indian gooseberry, Malacca tree, or amla, from the Sanskrit amalaki, is a deciduous tree of the family Phyllanthaceae.";s:8:"post_hsn";s:1:"0";s:7:"post_pv";s:1:"0";s:7:"post_bv";s:1:"1";s:9:"post_size";s:0:"";s:8:"post_tax";s:1:"0";s:7:"tax_age";s:1:"0";s:9:"post_slug";s:4:"amla";s:12:"post_selling";s:1:"0";s:9:"post_cmsn";s:1:"0";s:11:"category_id";s:1:"9";s:13:"category_name";s:6:"Fruits";s:13:"category_slug";s:6:"fruits";}}s:13:"result_object";a:1:{i:0;O:8:"stdClass":41:{s:7:"post_id";s:2:"92";s:9:"post_code";s:6:"PD0082";s:8:"post_ref";s:10:"PDDJTPKJ3G";s:10:"meta_title";s:4:"Amla";s:8:"meta_key";s:1:"7";s:9:"post_date";s:19:"2021-12-30 11:10:57";s:11:"update_date";s:19:"2021-12-30 11:10:57";s:9:"date_time";s:19:"2021-12-30 11:10:57";s:13:"franchisee_id";s:1:"1";s:14:"post_qty_limit";s:2:"10";s:10:"post_width";s:1:"0";s:11:"post_height";s:1:"0";s:10:"post_depth";s:1:"0";s:11:"post_weight";s:4:"1000";s:10:"is_product";s:1:"0";s:9:"stock_sts";s:1:"1";s:8:"post_sts";s:1:"1";s:10:"delete_sts";s:1:"1";s:13:"display_order";s:1:"0";s:7:"lang_id";s:1:"1";s:10:"post_title";s:4:"Amla";s:9:"post_tags";s:1:"7";s:9:"post_desc";s:405:"<p>
+	<span style="color: rgb(77, 81, 86); font-family: arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);">Phyllanthus emblica, also known as emblic, emblic myrobalan, myrobalan, Indian gooseberry, Malacca tree, or amla, from the Sanskrit amalaki, is a deciduous tree of the family Phyllanthaceae.</span></p>
+<p>
+	#amla</p>
+<p>
+	#ola</p>
+<p>
+	#gooseberry</p>
+<p>
+	#aola</p>";s:8:"post_mrp";s:2:"40";s:13:"post_discount";s:1:"0";s:16:"post_selling_mrp";s:1:"0";s:10:"post_price";s:2:"40";s:13:"post_shipping";s:1:"0";s:10:"short_desc";s:190:"Phyllanthus emblica, also known as emblic, emblic myrobalan, myrobalan, Indian gooseberry, Malacca tree, or amla, from the Sanskrit amalaki, is a deciduous tree of the family Phyllanthaceae.";s:8:"post_hsn";s:1:"0";s:7:"post_pv";s:1:"0";s:7:"post_bv";s:1:"1";s:9:"post_size";s:0:"";s:8:"post_tax";s:1:"0";s:7:"tax_age";s:1:"0";s:9:"post_slug";s:4:"amla";s:12:"post_selling";s:1:"0";s:9:"post_cmsn";s:1:"0";s:11:"category_id";s:1:"9";s:13:"category_name";s:6:"Fruits";s:13:"category_slug";s:6:"fruits";}}s:20:"custom_result_object";a:0:{}s:11:"current_row";i:0;s:8:"num_rows";i:1;s:8:"row_data";N;}
